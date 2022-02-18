@@ -1,2 +1,3 @@
 # Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub
-Workshop 3: Collaborative coding/version control: introduction to Git/GitHub #ESMARconf2022
+
+This is an example repository for the ESMARConf2022 Workshop 3
