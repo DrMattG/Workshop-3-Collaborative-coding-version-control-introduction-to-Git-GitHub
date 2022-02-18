@@ -1,0 +1,10 @@
+---
+title: "Committing to working with GitHub"
+author: "Matthew Grainger"
+date: "18 2 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

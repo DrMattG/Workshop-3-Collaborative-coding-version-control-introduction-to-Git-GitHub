@@ -1,0 +1,17 @@
+name: "Workshop3 GitHub"
+title: "Collaborative coding version control-introduction to Git & GitHub"
+description: |
+  Workshop 3: Collaborative coding/version control: introduction to Git/GitHub #ESMARconf2022
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Basic GitHub Workflow"
+      href: basic_github.html
+    - text: "Committing to working with GitHub"
+      href: commit_github.html
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
