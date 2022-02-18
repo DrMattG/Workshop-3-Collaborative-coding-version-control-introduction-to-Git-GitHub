@@ -8,3 +8,20 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![commit](assets/Commit.png)
+
+*Commit*-ing is the process by which, in Git, we record that we have made a change to the code (or other files) in the repository. A *commit* is a timestamped change which if we need to we can navigate back to and undo (and we often need to do this!). 
+
+It is up to you how often you *commit* but I would suggest do it often. You can navigate to the Git window in RStudio, select the files you wish to "stage" (ready for a *commit*) and then review and make the *commit*. It is useful to name the *commit* something informative - so for example if you added a READme file you could call the *Commit* "Added READme". This will help you in the future if you need to go back and solve a bug in the code that was introduced at a certain stage. It helps you navigate the changes in versions. 
+
+
+# *Pull* and *Push* 
+
+![PushmePullyou](https://miro.medium.com/max/1268/1*OjFzsHil3lLzJc8bR6ZivA.jpeg)
+
+The joke has been made by better people than me that Dr Dolittle was ahead of his time when it comes to Git commands. *Push* and *Pull* are the two most important (well used) commands. *Pull* allows you to pull down any changes from the repositoty. *Push* pushes up your changes to the repository. 
+
+As a habit you should *Pull* before you *Push* to make sure your version locally is the same as the repository. 
+
+
