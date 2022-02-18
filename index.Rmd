@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+author: "Matthew Grainger"
+date: "16 2 2022"
+output: html_document
+
+---
+# Collaborative coding version control-introduction to Git & GitHub
+
+Workshop 3 at ESMARconf2022
