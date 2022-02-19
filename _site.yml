@@ -11,6 +11,10 @@ navbar:
       href: basic_github.html
     - text: "Committing to working with GitHub"
       href: commit_github.html
+    - text: "Branching with GitHub"
+      href: branch_github.html
+    - text: "Collaborating with GitHub"
+      href: collab_github.html
 output: 
   html_document:
     toc: true

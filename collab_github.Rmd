@@ -1,0 +1,18 @@
+---
+title: "Collaborating with GitHub"
+author: "Matthew Grainger"
+date: "19 2 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+GitHub was developed to facilitate collaboration. I see this collaboration as being not only with other coders but also with yourself.  
+
+## Issues
+
+## Discussion
+
+## Pull Requests
