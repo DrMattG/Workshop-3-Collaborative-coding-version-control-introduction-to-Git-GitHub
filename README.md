@@ -15,8 +15,11 @@ During the workshop we aim to:
 [] Understand the basics of linking RStudio to GitHub
 
 [] Understand committing changes in RStudio and pushing these to GitHub (and pulling changes down to the local machine)
+
 [] Understand how to set up branches in RStudio
+
 [] Understand pull requests
+
 [] Understand tools for collaboration (issues, discussion, etc)
 
 Throughout the workshop we will try and be as "hands-on" as possible and I expect that you all will be confident to have submitted an issue and sent a pull request by the end of the workshop.
