@@ -13,6 +13,15 @@ GitHub was developed to facilitate collaboration. I see this collaboration as be
 
 ## Issues
 
-## Discussion
+Issues are a lightweight task tracking tool but also a way to interact with your community. 
+
+You can set up templates to focus the information that users who submit issues provide. 
+
+## Discussions
+
+Discussions are a longer form less focused version of issues. 
 
 ## Pull Requests
+
+Pull requests are probably the most confusingly named aspect of GitHub - they might better be thought of as a "merge request". They let you tell others about changes you have made in a branch and facilitate discussion and review of the potential changes. If the changes are accepted by the owner of the repo (this could be yourself) they can be merged with the main branch. 
+
