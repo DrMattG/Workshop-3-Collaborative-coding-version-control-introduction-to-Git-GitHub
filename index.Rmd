@@ -10,7 +10,7 @@ Workshop 3 at ESMARconf2022
 
 This website contains notes from Workshop 3 at [ESMARconf2022](https://esmarconf.github.io/).
 
-You can find information on the basic GitHub - RStudio workflow in the [Basic GitHub tab](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/basic_github.html). Details on [committing](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/commit_github.html), [branching](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/branch_github.html) and [collaboration with GitHub](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/collab_github.html) are included.
+You can find information on the basic GitHub - RStudio workflow in the [Basic GitHub tab](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/basic_github.html). Details on commits can be found in the [committing tab](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/commit_github.html), and branches in the  [branching tab](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/branch_github.html). Some tools for collaboration are in the  [collaboration with GitHub tab](https://drmattg.github.io/Workshop-3-Collaborative-coding-version-control-introduction-to-Git-GitHub/collab_github.html).
 
 
 
