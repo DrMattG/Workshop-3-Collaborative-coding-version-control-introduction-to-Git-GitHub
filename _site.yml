@@ -15,6 +15,8 @@ navbar:
       href: branch_github.html
     - text: "Collaborating with GitHub"
       href: collab_github.html
+    - text: "List of Resources"
+      href: resources_github.html
 output: 
   html_document:
     toc: true
