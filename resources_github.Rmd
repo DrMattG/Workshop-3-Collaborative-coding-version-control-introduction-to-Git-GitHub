@@ -14,4 +14,3 @@ Here is a list of GitHub resources:
 https://happygitwithr.com/index.html
 
 
-
